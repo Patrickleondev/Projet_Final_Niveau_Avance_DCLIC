@@ -117,3 +117,36 @@ app.*.symbols
 !**/ios/**/default.perspectivev3
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
 !/dev/ci/**/Gemfile.lock
+
+# Fichiers sensibles Firebase
+**/firebase_options.dart
+**/google-services.json
+**/GoogleService-Info.plist
+**/google-services.json.bak
+
+# Fichiers de configuration sensibles
+**/android/key.properties
+**/android/app/upload-keystore.jks
+**/android/app/debug.keystore
+**/android/app/release.keystore
+
+# Fichiers d'environnement
+.env
+.env.local
+.env.production
+.env.staging
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.temp
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+*~
+
+# Inclure les APKs dans le dépôt
+!**/build/app/outputs/flutter-apk/*.apk
+!**/apk/
+!**/APK/
