@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021401416720",
+    "project_id": "sanoc-health-app",
+    "storage_bucket": "sanoc-health-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021401416720:android:435b9a71d8921a0b8a7695",
+        "android_client_info": {
+          "package_name": "com.example.sanoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021401416720-no5ck3j517o76siokpt1492v93iva7qk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanoc",
+            "certificate_hash": "208a4e077f6385892e03c864134fd08f4cfce1b6"
+          }
+        },
+        {
+          "client_id": "1021401416720-otn5c6oo60bad95goli71bfid2d72jem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Vq8fUjdLw8D5aAcYiDBpJGb66byX_Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021401416720-otn5c6oo60bad95goli71bfid2d72jem.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
