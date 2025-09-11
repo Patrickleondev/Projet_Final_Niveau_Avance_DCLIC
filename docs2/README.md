@@ -44,6 +44,3 @@ Ces fichiers de documentation sont destinés à être soumis avec le projet pour
 3. La facilité d'installation et d'utilisation
 4. La complétude des livrables
 
-## Note
-
-Tous les fichiers sont formatés en Markdown sans emojis pour une meilleure compatibilité avec les systèmes de rendu académique.
