@@ -257,12 +257,6 @@ L'application demande les permissions suivantes :
 - **Notifications** : Pour les rappels et alertes
 - **Internet** : Pour la synchronisation des données
 
-## Support Technique
-
-### Contact
-- **Email** : support@sanoc-app.com
-- **Téléphone** : +228 XX XX XX XX
-- **Site Web** : www.sanoc-app.com
 
 ### Documentation
 - **Guide Utilisateur** : Disponible dans l'application
@@ -274,28 +268,4 @@ L'application demande les permissions suivantes :
 - Les nouvelles versions sont notifiées
 - Consultez les notes de version pour les nouveautés
 
-## Informations Techniques
 
-### Version Actuelle
-- **Version** : 1.0.0
-- **Build** : Release
-- **Taille** : 66.1 MB
-- **Dernière mise à jour** : Janvier 2025
-
-### Technologies Utilisées
-- **Framework** : Flutter 3.7.2
-- **Langage** : Dart
-- **Backend** : Firebase
-- **Base de données** : Firestore + SQLite
-- **Authentification** : Firebase Auth
-- **Stockage** : Firebase Storage
-
-### Compatibilité
-- **Android** : 5.0+ (API 21+)
-- **Architecture** : ARM64, ARMv7, x86_64
-- **Résolution** : Optimisé pour tous les écrans
-- **Orientation** : Portrait et paysage
-
----
-
-**Note** : Ce guide est fourni dans le cadre du projet de fin de formation DCLIC 2025. Pour toute question technique ou fonctionnelle, n'hésitez pas à contacter l'équipe de développement.
