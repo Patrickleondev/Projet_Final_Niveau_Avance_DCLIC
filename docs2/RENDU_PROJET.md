@@ -190,16 +190,4 @@ L'application utilise un design moderne avec :
 ## Développeur
 
 **Patrick Leon**  
-Étudiant en Développement d'Applications Mobiles  
-Projet de niveau avancé - DCLIC  
 
-## Support
-
-Pour toute question technique ou problème :
-- GitHub Issues : [Lien vers les issues]
-- Email : [Votre email]
-- Documentation : Voir le README principal
-
----
-
-**Note :** Ce projet a été développé dans le cadre d'un projet de niveau avancé en développement d'applications mobiles Flutter.
